@@ -1,0 +1,4 @@
+-To use program, run the jar file. A window will open.
+-First, load an image using the "load" button. The image will then appear at the bottom. From here, Click on the image to  select it, and click on an operation to apply that operation.
+-Click enter to complete that operation. A new image will be created with that operation applied. 
+-To save an image, click on an image and press save.

@@ -1,0 +1,61 @@
+Code status questionnaire:
+
+Please complete this questionnaire by selecting the appropriate answer for each question. Then include this file in the code that you send to your customers.
+
+Import/export features: Y
+
+Load a PPM file implementation: Y/N Y
+Script command to load a PPM file: Y/N N
+Load PPM file from GUI: Y/N Y
+
+Load a PNG/JPG file implementation: Y/N Y
+Script command to load a PNG/JPG file: Y/N N
+Load PNG/JPG file from GUI: Y/N Y
+
+Save a PPM file implementation: Y/N Y
+Script command to save a PPM file: Y/N N
+Save PPM file from GUI: Y/N Y
+
+Save a PNG/JPG file implementation: Y/N Y
+Script command to save a PNG/JPG file: Y/N Y
+Save PNG/JPG file from GUI: Y/N Y
+
+
+Image manipulations:
+
+Visualize various image components implementation: Y/N Y
+Script commands to load various image components: Y/N N
+Visualize various image components from GUI: Y/N Y
+
+Flip an image horizontally implementation: Y/N Y
+Script command to flip an image horizontally: Y/N N
+Flip an image horizontally from GUI: Y/N Y
+
+Flip an image vertically implementation: Y/N Y
+Script command to flip an image vertically: Y/N N
+Flip an image vertically from GUI: Y/N Y
+
+Brighten/darken image implementation: Y/N Y
+Script command to bright/darken image: Y/N N
+Brighten/darken image from GUI: Y/N Y
+
+Blur an image implementation: Y/N Y
+Script command to blur an image: Y/N N
+Blur an image from GUI: Y/N Y
+
+Sharpen an image implementation: Y/N N
+Script command to sharpen an image: Y/N N
+Sharpen an image from GUI: Y/N N
+
+Sepia implementation: Y/N Y
+Script command for sepia: Y/N N
+Sepia from GUI: Y/N Y
+
+Histogram visualization from GUI: Y/N Y
+
+Program:
+
+Program runs by running main? Y/N Y
+Program runs correctly using -file option? Y/N N
+Program runs correctly using -text option? Y/N N
+Program runs correctly (opens GUI) with no command-line options? Y/N Y
